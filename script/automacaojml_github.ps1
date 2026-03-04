@@ -54,4 +54,5 @@ foreach ($usuario in $usuarios) {
     }
 }
 
+
 Write-Host "Todos os usuarios foram processados!"
